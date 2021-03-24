@@ -17,3 +17,7 @@
 
   http://www.imparareaprogrammare.it
 */
+var gatti = 50
+var file = 5 
+
+console.log(gatti/file);
